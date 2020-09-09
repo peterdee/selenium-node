@@ -1,0 +1,19 @@
+{
+  "name": "selenium-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testing Selenium with Node",
+  "main": "index.js",
+  "keywords": [
+    "autotests",
+    "Node",
+    "Selenium"
+  ],
+  "author": "Peter Dyumin",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^85.0.1",
+    "geckodriver": "^1.20.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
